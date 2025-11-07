@@ -1,12 +1,3 @@
-# 4 — Median of Two Sorted Arrays
-
-**LeetCode Problem:** [#4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
-**Difficulty:** Hard  
-**Languages:** Python 🐍 | C++ 💻 | Java ☕  
-**Topic Tags:** Array, Binary Search, Two Pointers  
-
----
-
 # Approach Overview:
 
 **Python Logic Explanation**
