@@ -1,1 +1,1 @@
-make it simple
+keep it simple
