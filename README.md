@@ -1,4 +1,4 @@
-# LeetCode Hard Solutions
+# LeetCode Problem Solutions
 
 This repository contains curated and well-documented solutions to **LeetCode Hard** problems.  
 All solutions are implemented in **Python, Java, and C++**, with a strong emphasis on correctness, optimization, and clear explanation of the underlying algorithms.
@@ -10,7 +10,7 @@ The purpose of this repository is to serve as a long-term reference for advanced
 ## Repository Scope
 
 This repository is strictly focused on:
-- LeetCode problems marked as **Hard**
+- LeetCode problems marked as **Easy**, **Medium**, **Hard**
 - Efficient and optimal algorithmic solutions
 - Multi-language implementations
 - Clear conceptual explanations for each problem
@@ -31,7 +31,7 @@ This repository is strictly focused on:
 
 ```text
 
-leetcode-hard-solutions/
+leetcode-problem-solutions/
 ├── python/
 │ ├── problem_name_1.py
 │ ├── problem_name_2.py
